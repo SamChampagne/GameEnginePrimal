@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samol\\OneDrive\\Documents\\prog3\\GameEnginePrimal\\Primal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB807DF-55ED-433A-B2D4-C9D9F92F4F45}|PrimalInterface\\PrimalInterface.csproj|c:\\users\\samol\\onedrive\\documents\\prog3\\gameengineprimal\\primal\\primalinterface\\gameproject\\newproject.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9FB807DF-55ED-433A-B2D4-C9D9F92F4F45}|PrimalInterface\\PrimalInterface.csproj|solutionrelative:primalinterface\\gameproject\\newproject.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB807DF-55ED-433A-B2D4-C9D9F92F4F45}|PrimalInterface\\PrimalInterface.csproj|c:\\users\\samol\\onedrive\\documents\\prog3\\gameengineprimal\\primal\\primalinterface\\gameproject\\openproject.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9FB807DF-55ED-433A-B2D4-C9D9F92F4F45}|PrimalInterface\\PrimalInterface.csproj|solutionrelative:primalinterface\\gameproject\\openproject.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB807DF-55ED-433A-B2D4-C9D9F92F4F45}|PrimalInterface\\PrimalInterface.csproj|c:\\users\\samol\\onedrive\\documents\\prog3\\gameengineprimal\\primal\\primalinterface\\gameproject\\projectmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB807DF-55ED-433A-B2D4-C9D9F92F4F45}|PrimalInterface\\PrimalInterface.csproj|solutionrelative:primalinterface\\gameproject\\projectmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB807DF-55ED-433A-B2D4-C9D9F92F4F45}|PrimalInterface\\PrimalInterface.csproj|c:\\users\\samol\\onedrive\\documents\\prog3\\gameengineprimal\\primal\\primalinterface\\gameproject\\projectmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9FB807DF-55ED-433A-B2D4-C9D9F92F4F45}|PrimalInterface\\PrimalInterface.csproj|solutionrelative:primalinterface\\gameproject\\projectmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB807DF-55ED-433A-B2D4-C9D9F92F4F45}|PrimalInterface\\PrimalInterface.csproj|c:\\users\\samol\\onedrive\\documents\\prog3\\gameengineprimal\\primal\\primalinterface\\primalinterface.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9FB807DF-55ED-433A-B2D4-C9D9F92F4F45}|PrimalInterface\\PrimalInterface.csproj|solutionrelative:primalinterface\\primalinterface.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB807DF-55ED-433A-B2D4-C9D9F92F4F45}|PrimalInterface\\PrimalInterface.csproj|c:\\users\\samol\\onedrive\\documents\\prog3\\gameengineprimal\\primal\\primalinterface\\primalinterface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9FB807DF-55ED-433A-B2D4-C9D9F92F4F45}|PrimalInterface\\PrimalInterface.csproj|solutionrelative:primalinterface\\primalinterface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB807DF-55ED-433A-B2D4-C9D9F92F4F45}|PrimalInterface\\PrimalInterface.csproj|c:\\users\\samol\\onedrive\\documents\\prog3\\gameengineprimal\\primal\\primalinterface\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9FB807DF-55ED-433A-B2D4-C9D9F92F4F45}|PrimalInterface\\PrimalInterface.csproj|solutionrelative:primalinterface\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB807DF-55ED-433A-B2D4-C9D9F92F4F45}|PrimalInterface\\PrimalInterface.csproj|c:\\users\\samol\\onedrive\\documents\\prog3\\gameengineprimal\\primal\\primalinterface\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB807DF-55ED-433A-B2D4-C9D9F92F4F45}|PrimalInterface\\PrimalInterface.csproj|solutionrelative:primalinterface\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD035DA-74C3-464A-AA88-F9147991FDAA}|Engine\\Engine.vcxproj|C:\\Users\\samol\\OneDrive\\Documents\\prog3\\GameEnginePrimal\\Primal\\Engine\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1FD035DA-74C3-464A-AA88-F9147991FDAA}|Engine\\Engine.vcxproj|solutionrelative:Engine\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "newProject.xaml",
+              "DocumentMoniker": "C:\\Users\\samol\\OneDrive\\Documents\\prog3\\GameEnginePrimal\\Primal\\PrimalInterface\\gameproject\\newProject.xaml",
+              "RelativeDocumentMoniker": "PrimalInterface\\gameproject\\newProject.xaml",
+              "ToolTip": "C:\\Users\\samol\\OneDrive\\Documents\\prog3\\GameEnginePrimal\\Primal\\PrimalInterface\\gameproject\\newProject.xaml",
+              "RelativeToolTip": "PrimalInterface\\gameproject\\newProject.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-04T20:55:52.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "openProject.xaml",
+              "DocumentMoniker": "C:\\Users\\samol\\OneDrive\\Documents\\prog3\\GameEnginePrimal\\Primal\\PrimalInterface\\gameproject\\openProject.xaml",
+              "RelativeDocumentMoniker": "PrimalInterface\\gameproject\\openProject.xaml",
+              "ToolTip": "C:\\Users\\samol\\OneDrive\\Documents\\prog3\\GameEnginePrimal\\Primal\\PrimalInterface\\gameproject\\openProject.xaml",
+              "RelativeToolTip": "PrimalInterface\\gameproject\\openProject.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-04T20:55:23.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrimalInterface",
+              "DocumentMoniker": "C:\\Users\\samol\\OneDrive\\Documents\\prog3\\GameEnginePrimal\\Primal\\PrimalInterface\\PrimalInterface.csproj",
+              "RelativeDocumentMoniker": "PrimalInterface\\PrimalInterface.csproj",
+              "ToolTip": "C:\\Users\\samol\\OneDrive\\Documents\\prog3\\GameEnginePrimal\\Primal\\PrimalInterface\\PrimalInterface.csproj",
+              "RelativeToolTip": "PrimalInterface\\PrimalInterface.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-04T20:45:12.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectMenu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\samol\\OneDrive\\Documents\\prog3\\GameEnginePrimal\\Primal\\PrimalInterface\\gameproject\\ProjectMenu.xaml.cs",
+              "RelativeDocumentMoniker": "PrimalInterface\\gameproject\\ProjectMenu.xaml.cs",
+              "ToolTip": "C:\\Users\\samol\\OneDrive\\Documents\\prog3\\GameEnginePrimal\\Primal\\PrimalInterface\\gameproject\\ProjectMenu.xaml.cs",
+              "RelativeToolTip": "PrimalInterface\\gameproject\\ProjectMenu.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:17:19.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectMenu.xaml",
+              "DocumentMoniker": "C:\\Users\\samol\\OneDrive\\Documents\\prog3\\GameEnginePrimal\\Primal\\PrimalInterface\\gameproject\\ProjectMenu.xaml",
+              "RelativeDocumentMoniker": "PrimalInterface\\gameproject\\ProjectMenu.xaml",
+              "ToolTip": "C:\\Users\\samol\\OneDrive\\Documents\\prog3\\GameEnginePrimal\\Primal\\PrimalInterface\\gameproject\\ProjectMenu.xaml",
+              "RelativeToolTip": "PrimalInterface\\gameproject\\ProjectMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-04T19:45:33.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrimalInterface.csproj",
+              "DocumentMoniker": "C:\\Users\\samol\\OneDrive\\Documents\\prog3\\GameEnginePrimal\\Primal\\PrimalInterface\\PrimalInterface.csproj",
+              "RelativeDocumentMoniker": "PrimalInterface\\PrimalInterface.csproj",
+              "ToolTip": "C:\\Users\\samol\\OneDrive\\Documents\\prog3\\GameEnginePrimal\\Primal\\PrimalInterface\\PrimalInterface.csproj",
+              "RelativeToolTip": "PrimalInterface\\PrimalInterface.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-04T19:24:31.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\samol\\OneDrive\\Documents\\prog3\\GameEnginePrimal\\Primal\\PrimalInterface\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PrimalInterface\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\samol\\OneDrive\\Documents\\prog3\\GameEnginePrimal\\Primal\\PrimalInterface\\MainWindow.xaml",
+              "RelativeToolTip": "PrimalInterface\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-04T19:21:55.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\samol\\OneDrive\\Documents\\prog3\\GameEnginePrimal\\Primal\\PrimalInterface\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PrimalInterface\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\samol\\OneDrive\\Documents\\prog3\\GameEnginePrimal\\Primal\\PrimalInterface\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PrimalInterface\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAuwCoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T19:21:54.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Engine.cpp",
+              "DocumentMoniker": "C:\\Users\\samol\\OneDrive\\Documents\\prog3\\GameEnginePrimal\\Primal\\Engine\\Engine.cpp",
+              "RelativeDocumentMoniker": "Engine\\Engine.cpp",
+              "ToolTip": "C:\\Users\\samol\\OneDrive\\Documents\\prog3\\GameEnginePrimal\\Primal\\Engine\\Engine.cpp",
+              "RelativeToolTip": "Engine\\Engine.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-04T19:20:18.471Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
